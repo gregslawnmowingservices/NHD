@@ -1,3 +1,10 @@
+body {
+  color: grey;
+}
+
+h1 {
+  color: grey;
+}
 .old-standard-tt-regular {
   font-family: "Old Standard TT", serif;
   font-weight: 400;
