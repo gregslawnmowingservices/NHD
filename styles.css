@@ -27,5 +27,7 @@ h1 {
 }
 .center {
   text-align: center;
-  border: 3px solid green;
+}
+.header {
+            text-align: center;
 }
