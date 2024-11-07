@@ -27,7 +27,10 @@ h1 {
   font-style: italic;
 }
 .center {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* Style the header with a grey background and some padding */
 .header {
