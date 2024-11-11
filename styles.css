@@ -62,7 +62,7 @@ h1 {
 
 /* Style the active/current link*/
 .header a.active {
-  background-color: white;
+  background-color: #f1f1f1;
   color: grey;
 }
 
