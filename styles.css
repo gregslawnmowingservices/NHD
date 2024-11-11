@@ -81,4 +81,7 @@ h1 {
   .header-right {
     float: none;
   }
+div {
+   word-wrap: break-word;
+   width: 100px;
 }
