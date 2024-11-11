@@ -56,7 +56,7 @@ h1 {
 
 /* Change the background color on mouse-over */
 .header a:hover {
-  background-color: #ddd;
+  background-color: #f1f1f1;
   color: grey;
 }
 
